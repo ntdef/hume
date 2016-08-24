@@ -7,9 +7,10 @@ dependencies = ['docopt']
 
 setup(
     name='hume',
-    version='0.1.2',
-    url='https://github.com/dosemedia/hume',
-    license='BSD',
+    version='0.1.2-alpha',
+    url='https://github.com/ntdef/hume',
+    download_url='https://github.com/ntdef/hume/archive/v0.1.2-alpha.tar.gz',
+    license='MIT',
     author='Troy de Freitas',
     description='A containerized interface for machine learning',
     long_description=__doc__,
