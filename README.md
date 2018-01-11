@@ -2,7 +2,6 @@
 
 A standard interface for machine learning at Dose.
 
-
 # Installation
 
 Simply run:
